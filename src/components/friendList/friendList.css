@@ -1,0 +1,27 @@
+.list {
+
+    padding: 0px;
+    margin: auto;
+    width: 250px;
+    list-style: none;
+}
+
+.item {
+    background-color: rgb(236, 234, 234);
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.status {
+    font-display: block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -7,5 +7,5 @@ export const user = {
     "followers": 5603,
     "views": 4827,
     "likes": 1308
-  } 
+  }
 } 

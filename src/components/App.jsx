@@ -3,6 +3,7 @@ import { Statistics } from "./statistics/statistics";
 import { FriendList } from "./friendList/friendList";
 import { TransactionHistory } from "./transactionHistory/transactionHistory";
 
+
 export const App = () => {
   return (
     <div>

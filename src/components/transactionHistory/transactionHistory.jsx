@@ -1,4 +1,5 @@
 import { transition } from './transactions'
+import css from './transactionHistory.css'
 
 export const TransactionHistory = () => {
     return <table className="transaction-history">

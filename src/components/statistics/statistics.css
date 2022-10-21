@@ -1,0 +1,31 @@
+
+.statistics {
+   width: 250px;
+background-color: rgb(194, 194, 194);
+margin-left: auto;
+margin-right: auto; 
+
+}
+
+.title {
+    text-align: center;
+    color: rgb(98, 100, 100);
+   
+}
+
+.stat-list {
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+    color: white;
+}
+.item-friends {
+    background-color: rgb(46, 48, 48);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60px;
+    border: 1px solid grey;
+    height: 45px;
+}

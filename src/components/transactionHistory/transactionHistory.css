@@ -1,0 +1,24 @@
+.transaction-history {
+    color: white;
+    margin: auto;
+    width: 400px;
+    margin-bottom: 30px;
+
+}
+
+.transaction-history,
+thead {
+    background-color: rgb(236, 234, 234);
+color: gray;
+
+}
+
+thead:first-child {
+    background-color: rgb(73, 0, 168);
+    color: white;
+}
+
+
+tr:nth-child(even) {
+    background: rgb(199, 197, 197);
+}
