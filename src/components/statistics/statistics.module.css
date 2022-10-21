@@ -13,14 +13,14 @@ margin-right: auto;
    
 }
 
-.stat-list {
+.list {
     list-style: none;
     display: flex;
     padding-left: 0px;
-    color: white;
+    color: rgb(26, 25, 25);
 }
-.item-friends {
-    background-color: rgb(46, 48, 48);
+.item {
+    /* background-color: rgb(46, 48, 48); */
     display: flex;
     align-items: center;
     justify-content: center;

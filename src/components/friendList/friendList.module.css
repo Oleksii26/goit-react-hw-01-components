@@ -17,11 +17,14 @@
 }
 
 .status {
-    font-display: block;
+  
     border-radius: 50%;
     width: 20px;
     height: 20px;
     background-color: red;
     margin-left: 10px;
     margin-right: 10px;
+}
+.true {
+    background-color: green;
 }

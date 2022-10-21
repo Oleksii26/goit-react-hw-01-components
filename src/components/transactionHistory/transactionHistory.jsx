@@ -1,8 +1,7 @@
-import { transition } from './transactions'
-import css from './transactionHistory.css'
+import css from './transactionHistory.module.css'
 
-export const TransactionHistory = () => {
-    return <table className="transaction-history">
+export const TransactionHistory = ({ transition }) => {
+    return <table className={css.transactionHistory}>
         <thead>
             <tr>
                 <th>Type</th>

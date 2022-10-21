@@ -1,4 +1,4 @@
-.transaction-history {
+.transactionHistory {
     color: white;
     margin: auto;
     width: 400px;
@@ -6,7 +6,7 @@
 
 }
 
-.transaction-history,
+.transactionHistory,
 thead {
     background-color: rgb(236, 234, 234);
 color: gray;
