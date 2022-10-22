@@ -16,8 +16,9 @@
     box-shadow: 5px 5px 5px gray;
 }
 
-.status {
-    /* background-color: green; */
+.true {
+    background-color: green;
+    display: block;
     border-radius: 50%;
     width: 20px;
     height: 20px;
@@ -25,10 +26,12 @@
     margin-right: 10px;
 }
 
-.true {
-    background-color: green;
-}
-
 .false {
     background-color: red;
+    display: block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
