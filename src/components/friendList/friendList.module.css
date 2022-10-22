@@ -28,10 +28,16 @@
 
 .false {
     background-color: red;
-    display: block;
+      display: block;
     border-radius: 50%;
     width: 20px;
     height: 20px;
     margin-left: 10px;
     margin-right: 10px;
+}
+.name {
+    margin-left: 5px;
+    color: blue;
+    font-style: normal;
+    font-weight: 700;
 }
